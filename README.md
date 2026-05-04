@@ -4,7 +4,7 @@ Background in **Management** and **Information Systems Engineering**, currently 
 
 ---
 
-### Featured projects
+### Some Featured projects
 
 **[pds](https://github.com/optmstic/pds) — Programming for Data Science**
 Flight Routes with Up to Two Stops: structural analysis of the global airport network. Lists every viable route between two airports with ≤ 2 stops, ranks by distance, compares to the great-circle line, and surfaces the world's most-used transfer hubs.
