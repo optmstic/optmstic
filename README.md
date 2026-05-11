@@ -11,24 +11,24 @@ This profile separates my portfolio into two tracks:
 
 ## Academic / Applied Analytics Projects
 
-**[pds](https://github.com/optmstic/pds) — Programming for Data Science**  
-Flight Routes with Up to Two Stops: structural analysis of the global airport network. Lists viable routes between two airports with ≤ 2 stops, ranks by distance, compares to the great-circle line, and surfaces major transfer hubs.  
+**[Airport Network Route Analysis](https://github.com/optmstic/airport-network-route-analysis) — Programming for Data Science**  
+Structural analysis of the global airport network. Lists viable routes between two airports with ≤ 2 stops, ranks by distance, compares to the great-circle line, and surfaces major transfer hubs.  
 `Python` · `pandas` · `NumPy` · `Matplotlib` · `Network Analysis`
 
-**[bi](https://github.com/optmstic/bi) — Business Intelligence**  
-Apple Financial Forecasting Dashboard: interactive Power BI report with Azure AutoML predictions on 2006–2025 Apple financial data. Revenue, gross margin and volume forecasts wired to dynamic KPIs.  
+**[Apple Financial Forecasting Dashboard](https://github.com/optmstic/apple-financial-forecasting-dashboard) — Business Intelligence**  
+Interactive Power BI report with Azure AutoML predictions on 2006–2025 Apple financial data. Revenue, gross margin and volume forecasts wired to dynamic KPIs.  
 `Power BI` · `Azure ML` · `Python` · `DAX` · `Forecasting`
 
-**[dsml](https://github.com/optmstic/dsml) — Data Science & Machine Learning**  
+**[Nonprofit Donor Segmentation](https://github.com/optmstic/nonprofit-donor-segmentation) — Data Science & Machine Learning**  
 Segmentation of a nonprofit donor dataset using unsupervised learning techniques, focused on identifying meaningful donor groups and actionable fundraising insights.  
 `Python` · `Machine Learning` · `Clustering` · `Segmentation`
 
-**[dss](https://github.com/optmstic/dss) — Decision Support Systems**  
-Seoul Bicycle-Sharing Demand Forecast: IBM Data Analyst capstone using web scraping, OpenWeather API data, feature engineering, regularized regression, and an R Shiny dashboard for demand planning.  
+**[Seoul Bike Demand Forecasting](https://github.com/optmstic/seoul-bike-demand-forecasting) — Decision Support Systems**  
+IBM Data Analyst capstone using web scraping, OpenWeather API data, feature engineering, regularized regression, and an R Shiny dashboard for demand planning.  
 `R` · `tidyverse` · `glmnet` · `Shiny`
 
-**[rnrd](https://github.com/optmstic/rnrd) — Relational and Non-Relational Databases**  
-AdventureWorks Auction & Store Expansion: extends the AdventureWorks schema with an auction subsystem and analytical queries recommending two US cities for store expansion.  
+**[AdventureWorks Auction & Store Expansion](https://github.com/optmstic/adventureworks-auction-store-expansion) — Relational and Non-Relational Databases**  
+SQL Server database extension with an auction subsystem and analytical queries recommending two US cities for store expansion.  
 `T-SQL` · `SQL Server` · `AdventureWorks` · `Database Design`
 
 ---
