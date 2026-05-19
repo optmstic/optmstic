@@ -1,6 +1,6 @@
 ## About
 
-Background in **Management** and **Information Systems Engineering**, currently in the post-graduate programme in **Enterprise Data Science & Analytics** at **NOVA IMS**.
+Background in **Management** and **Information Systems Management**, currently in the post-graduate programme in **Enterprise Data Science & Analytics** at **NOVA IMS**.
 
 This profile separates my portfolio into two tracks:
 
