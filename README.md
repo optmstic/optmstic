@@ -19,10 +19,6 @@ Structural analysis of the global airport network. Lists viable routes between t
 Interactive Power BI report with Azure AutoML predictions on 2006–2025 Apple financial data. Revenue, gross margin and volume forecasts wired to dynamic KPIs.  
 `Power BI` · `Azure ML` · `Python` · `DAX` · `Forecasting`
 
-**[Nonprofit Donor Segmentation](https://github.com/optmstic/nonprofit-donor-segmentation) — Data Science & Machine Learning**  
-Segmentation of a nonprofit donor dataset using unsupervised learning techniques, focused on identifying meaningful donor groups and actionable fundraising insights.  
-`Python` · `Machine Learning` · `Clustering` · `Segmentation`
-
 **[Seoul Bike Demand Forecasting](https://github.com/optmstic/seoul-bike-demand-forecasting) — Decision Support Systems**  
 IBM Data Analyst capstone using web scraping, OpenWeather API data, feature engineering, regularized regression, and an R Shiny dashboard for demand planning.  
 `R` · `tidyverse` · `glmnet` · `Shiny`
