@@ -11,9 +11,9 @@ This profile separates my portfolio into two tracks:
 
 ## Academic / Applied Analytics Projects
 
-**[MovieLens 32M with DuckDB and Parquet](https://github.com/optmstic/big-data-foundations-movielens) — Big Data Foundations**  
+**[MovieLens Analytical Data Lake ](https://github.com/optmstic/big-data-foundations-movielens) — Big Data Foundations**  
 Group project for the Big Data Foundations discipline (NOVA IMS, 2026). Local analytical layer over 32M MovieLens ratings: CSV/TSV to Parquet, DuckDB catalog views, IMDb enrichment through `links.csv`, and measured CSV vs Parquet performance (up to 20× faster scans).  
-`Python` · `DuckDB` · `Parquet` · `SQL` · `Jupyter`
+`Python` · `Jupyter` · `SQL` · `Jupyter`· `AWS Athena` · `DuckDB`
 
 **[Airport Network Route Analysis](https://github.com/optmstic/airport-network-route-analysis) — Programming for Data Science**  
 Structural analysis of the global airport network. Lists viable routes between two airports with ≤ 2 stops, ranks by distance, compares to the great-circle line, and surfaces major transfer hubs.  
