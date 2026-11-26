@@ -1,4 +1,4 @@
-## Hi, I'm optmstic 👋
+## Hi, I'm optimistic 👋
 
 Management & Information Systems background, now in the **Enterprise Data Science & Analytics** post-graduate programme at **NOVA IMS**.
 
